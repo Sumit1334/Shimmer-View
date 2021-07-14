@@ -151,7 +151,15 @@ This extension is very easy to use. You have to guve a unique id and a layout in
 
 ### Left to Right
 
-https://github.com/Sumit1334/Shimmer-View/blob/main/assets/IMG_eh9pp0.gif
+
+### Right to Left
+
+
+### Top to Bottom
+
+
+### Bottom to Top
+
 
 
 ## Downloads
