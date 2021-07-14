@@ -150,19 +150,29 @@ This extension is very easy to use. You have to guve a unique id and a layout in
 ## Preview
 
 ### Left to Right
-https://kodular-community.s3.dualstack.eu-west-1.amazonaws.com/original/3X/7/4/746da9fd35369c3281ea87593dee0b5278ae0481.gif
+
+
+![righttoleft](https://user-images.githubusercontent.com/74917290/125592354-6f62af37-d735-485d-96fa-cdac4325d500.gif)
+
 
 ### Right to Left
 
-https://kodular-community.s3.dualstack.eu-west-1.amazonaws.com/original/3X/b/0/b0b8b78290f5dda8482a1ed16f426a1aafd58192.gif
+
+![lefttoright](https://user-images.githubusercontent.com/74917290/125592031-fb97f8b7-f7be-48f5-ad92-972c97e11c0b.gif)
+
 
 ### Top to Bottom
 
-https://kodular-community.s3.dualstack.eu-west-1.amazonaws.com/original/3X/4/2/428540113475becab756e5387dc6b3a942c8094d.gif
+![toptobottom](https://user-images.githubusercontent.com/74917290/125592360-4b71f17e-43c9-47cf-9ce2-2aeae4935dff.gif)
 
 ### Bottom to Top
 
-https://kodular-community.s3.dualstack.eu-west-1.amazonaws.com/original/3X/2/0/209aab1bee68ff4ba9bfa127fad43a4285f7a60a.gif
+![BottomToTop](https://user-images.githubusercontent.com/74917290/125592329-7b20b23a-50ed-4c64-b372-edecc2ff505b.gif)
+
+### Colored
+
+
+![colored](https://user-images.githubusercontent.com/74917290/125592437-9667bf5c-3b9d-44c3-91b3-d2b1437f634d.gif)
 
 ## Downloads
 
