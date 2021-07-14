@@ -149,7 +149,10 @@ This extension is very easy to use. You have to guve a unique id and a layout in
 
 ## Preview
 
-I am adding Preview.
+### Left to Right
+
+https://github.com/Sumit1334/Shimmer-View/blob/main/assets/IMG_eh9pp0.gif
+
 
 ## Downloads
 
