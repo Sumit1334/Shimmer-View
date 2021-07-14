@@ -1,0 +1,36 @@
+# For a detailed info on this file and supported fields, check
+# out this link: https://github.com/ShreyashSaitwal/rush-cli/wiki/Metadata-File
+
+---
+name: ShimmerView           # Caution: DO NOT change the name.
+description: This Extension helps you to apply shimmer on any view component of App Inventor. <br> Made By Sumit using Rush. <br> <a href="https://community.kodular.io/u/sumit1334" target="_blank"> Sumit</a>
+
+
+version:
+  number: auto        # Auto increments version number when built with '-r' ('--release') flag.
+  name: '1'
+
+authors:
+  - Sumit
+
+build:
+  # If enabled, you will be able to use Java 8 language features in your extension.
+  desugar:
+    enable: true
+    desugar_deps: false
+
+  # Optimizes your extension on every release build.
+  release:
+    optimize: true
+
+assets:
+  # Extension icon
+  icon: https://res.cloudinary.com/gamerzon/image/upload/c_scale,w_20/v1623655693/1623654969579_efvysg.png
+
+  # Extension asset(s)
+  # other:
+  #   - my_awesome_asset.anything
+
+# Dependencies declared here should be present in the "deps" directory.
+# deps:
+#   - .jar
