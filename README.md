@@ -150,17 +150,19 @@ This extension is very easy to use. You have to guve a unique id and a layout in
 ## Preview
 
 ### Left to Right
-
+https://kodular-community.s3.dualstack.eu-west-1.amazonaws.com/original/3X/7/4/746da9fd35369c3281ea87593dee0b5278ae0481.gif
 
 ### Right to Left
 
+https://kodular-community.s3.dualstack.eu-west-1.amazonaws.com/original/3X/b/0/b0b8b78290f5dda8482a1ed16f426a1aafd58192.gif
 
 ### Top to Bottom
 
+https://kodular-community.s3.dualstack.eu-west-1.amazonaws.com/original/3X/4/2/428540113475becab756e5387dc6b3a942c8094d.gif
 
 ### Bottom to Top
 
-
+https://kodular-community.s3.dualstack.eu-west-1.amazonaws.com/original/3X/2/0/209aab1bee68ff4ba9bfa127fad43a4285f7a60a.gif
 
 ## Downloads
 
